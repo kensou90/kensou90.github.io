@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jucs on kensou`s notebook</title>
+    <link>https://blog.caoleix.cn/juc/</link>
+    <description>Recent content in Jucs on kensou`s notebook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <managingEditor>kensou90@163.com (kensou)</managingEditor>
+    <webMaster>kensou90@163.com (kensou)</webMaster><atom:link href="https://blog.caoleix.cn/juc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://blog.caoleix.cn/juc/aqs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>kensou90@163.com (kensou)</author>
+      <guid>https://blog.caoleix.cn/juc/aqs/</guid>
+      <description>Node Methods 需要重写的方法 tryAcquire tryRelease tryAcquireShared tryReleaseShared isHeldExclusively 不需要重写的方法 acquire 获取独占锁 用CountDownLatch来作为切入点 CountDownLatch.await() CountDownLatch.countDown()</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>documentation - 分类 - kensou`s notebook</title>
+    <link>https://blog.caoleix.cn/categories/documentation/</link>
+    <description>documentation - 分类 - kensou`s notebook</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>kensou90@163.com (kensou)</managingEditor>
+      <webMaster>kensou90@163.com (kensou)</webMaster><lastBuildDate>Wed, 20 Jul 2022 11:44:15 &#43;0800</lastBuildDate><atom:link href="https://blog.caoleix.cn/categories/documentation/" rel="self" type="application/rss+xml" /><item>
+  <title>扩展 Shortcode - echarts</title>
+  <link>https://blog.caoleix.cn/posts/echart/</link>
+  <pubDate>Wed, 20 Jul 2022 11:44:15 &#43;0800</pubDate>
+  <author>kensou</author>
+  <guid>https://blog.caoleix.cn/posts/echart/</guid>
+  <description><![CDATA[<p><code>echarts</code> shortcode 使用 <a href="https://echarts.apache.org/"target="_blank" rel="external nofollow noopener noreferrer">ECharts</a> 库提供数据可视化的功能.</p>]]></description>
+</item>
+<item>
+  <title>主题文档 - 内容加密</title>
+  <link>https://blog.caoleix.cn/posts/doc_encrypt/</link>
+  <pubDate>Sat, 28 May 2022 11:51:41 &#43;0800</pubDate>
+  <author>kensou</author>
+  <guid>https://blog.caoleix.cn/posts/doc_encrypt/</guid>
+  <description><![CDATA[<p>了解如何在 FixIt 主题中加密内容。</p>]]></description>
+</item>
+</channel>
+</rss>
